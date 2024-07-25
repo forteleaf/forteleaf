@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66a193db23c186c28d602790?variant=dark)](https://roadmap.sh)
+
+
 <!--
 **forteleaf/forteleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
